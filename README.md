@@ -79,6 +79,7 @@
 
 - [Opera Mini](http://www.opera.com) - Opera Mini is a mobile web browser developed by Opera Software. `Android` `Another`
 - [Midori](https://astian.org/) - Midori is a lightweight open source web browser designed for use on various operating systems. `Android` `Linux` `macOS` `Windows`
+- [NetSurf](https://www.netsurf-browser.org/) - NetSurf is a lightweight open source web browser designed for use on resource-constrained systems such as older computers or devices with low technical specifications. `AmigaOS 4` `Atari OS` `BeOS/Haiku` `Windows` `macOS` `RISC OS` `Unix-like`
 
 ## Operating systems
 

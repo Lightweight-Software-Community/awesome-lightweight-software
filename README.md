@@ -1,5 +1,5 @@
 # Awesome Lightweight Software
-<p align="center"><img src="https://lightweightsoftware.ru/wp-content/uploads/2023/07/logo-e1690280850435.png" alt="awesome lightweight software"><br><a href="https://lightweightsoftware.org/"> <img alt="Lightweight Software" src="https://img.shields.io/badge/Lightweight-Software-lightgrey"> </a></p>
+<p align="center"><img src="logo.png" alt="awesome lightweight software"><br><a href="https://github.com/Lightweight-Software-Community"> <img alt="Lightweight Software" src="https://img.shields.io/badge/Lightweight-Software-lightgrey"> </a></p>
 <p align="center">List of lightweight software (updated)</p>
 
 ## Contents
@@ -94,8 +94,8 @@
 
 Insert the code on your website if you support Lightweight Software
 ```
-<a href="https://lightweightsoftware.org/"> <img alt="Lightweight Software" src="https://img.shields.io/badge/Lightweight-Software-lightgrey"> </a>
+<a href="https://github.com/Lightweight-Software-Community"> <img alt="Lightweight Software" src="https://img.shields.io/badge/Lightweight-Software-lightgrey"> </a>
 ```
-<a href="https://lightweightsoftware.org/"> <img alt="Lightweight Software" src="https://img.shields.io/badge/Lightweight-Software-lightgrey"> </a>
+<a href="https://github.com/Lightweight-Software-Community"> <img alt="Lightweight Software" src="https://img.shields.io/badge/Lightweight-Software-lightgrey"> </a>
 
 

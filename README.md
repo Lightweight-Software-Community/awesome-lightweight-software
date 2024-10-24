@@ -1,5 +1,5 @@
 # Awesome Lightweight Software
-<p align="center"><img src="logo.png" alt="awesome lightweight software"><br><a href="https://github.com/Lightweight-Software-Community"> <img alt="Lightweight Software" src="https://img.shields.io/badge/Lightweight-Software-lightgrey"> </a></p>
+<p align="center"><img src="logo.png" alt="awesome lightweight software" style="width:200px; height:auto;"><br><a href="https://github.com/Lightweight-Software-Community"> <img alt="Lightweight Software" src="https://img.shields.io/badge/Lightweight-Software-lightgrey"> </a></p>
 <p align="center">List of lightweight software (updated)</p>
 
 ## Contents
